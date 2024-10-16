@@ -1,0 +1,22 @@
+
+body{
+    background-color: aquamarine;
+}
+#photo{
+    border: solid 4px;
+}
+div{
+    margin: 60px;
+}
+.warna{
+    color: red;
+}
+.ukuran{
+    font-size: 25px;
+}
+#jenis{
+    font-family: 'Times New Roman', Times, serif;
+}
+#model{
+    font-weight: bold;
+}

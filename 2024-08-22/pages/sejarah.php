@@ -1,0 +1,1 @@
+sejarah berdirinya smkn 2 sedati didirikan 1945
