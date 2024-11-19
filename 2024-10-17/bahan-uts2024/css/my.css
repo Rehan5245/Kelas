@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+}
+@media (prefers-reduced-motion: no-preference) {
+    :root {
+      scroll-behavior: smooth;
+    }
+  }
+  .wrapper{
+    background-image: url(../assets/img/bg-masthead.jpg);
+    background-size: cover;
+    height: 650px;
+    background-repeat: no-repeat;
+}
+    .wrapper h1{
+        justify-self: center;
+        padding-top: 3%;
+    }
+    .wrapper button p:hover{
+        background-color: white;
+    }
+    button {
+        background-color: blue;
+        display: flex;
+        align-items: center;
+        height: 30px;
+        border-radius: 5;
+    
+    }
+    hr {
+    margin: 1rem 0;
+    color: inherit;
+    border: 0;
+    border-top: 2px solid;
+    opacity: 0.4;
+    }
+    footer{
+        height: 200px;
+        background-color: white;
+    }
+    footer p{
+        padding-top: 2%;
+        font-size: 1.20rem;
+        justify-self: center;
+    }
